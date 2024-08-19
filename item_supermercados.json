@@ -1,0 +1,20 @@
+{
+    "supermercado": [
+      {
+        "nome": "Arroz Integral",
+        "preco": 12.50,
+        "validade": "2024-09-15"
+      },
+      {
+        "nome": "Feijão Preto",
+        "preco": 8.90,
+        "validade": "2024-12-01"
+      },
+      {
+        "nome": "Óleo de Soja",
+        "preco": 7.20,
+        "validade": "2025-02-10"
+      }
+    ]
+  }
+  
