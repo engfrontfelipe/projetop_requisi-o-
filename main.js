@@ -7,7 +7,7 @@ $(document).ready(function(){
             return resposta.json()
         })
         .then(function (json) {
-            const nome =  json.item1[0].preco
+            const nome =  json.item1[0].nome
             console.log(nome)
         })
     })
